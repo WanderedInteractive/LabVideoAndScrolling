@@ -19,7 +19,8 @@ Grid View c карточками товаров (автомобилей):
 
 Фотографии скроллятся:
 
-![image](https://github.com/WanderedInteractive/LabVideoAndScroll/assets/161350050/2034d07c-4e3a-4ec9-99ef-19e31367c1f0)
+![image](https://github.com/WanderedInteractive/LabVideoAndScroll/assets/161350050/dfc52a87-6a23-40b4-a05d-9ab358c9453e)
+
 
 Видео плеер:
 
